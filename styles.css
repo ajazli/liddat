@@ -4,6 +4,7 @@ body {
 .main{
   position: absolute;
   top: 25%;
+  width: 100%;;
 }
 div{
   font-family: Oduda;
