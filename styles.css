@@ -1,0 +1,27 @@
+body {
+  background: rgba(177,75,255,1);
+}
+.main{
+  position: absolute;
+  top: 25%;
+}
+div{
+  font-family: Oduda;
+  color: white;
+}
+
+.landing{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@font-face {font-family: "Oduda"; src: url("//db.onlinewebfonts.com/t/b9b4e2e298a645a5868a6fa0c08bede3.eot"); src: url("//db.onlinewebfonts.com/t/b9b4e2e298a645a5868a6fa0c08bede3.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/b9b4e2e298a645a5868a6fa0c08bede3.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/b9b4e2e298a645a5868a6fa0c08bede3.woff") format("woff"), url("//db.onlinewebfonts.com/t/b9b4e2e298a645a5868a6fa0c08bede3.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/b9b4e2e298a645a5868a6fa0c08bede3.svg#Oduda") format("svg"); }
