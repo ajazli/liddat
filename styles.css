@@ -1,7 +1,10 @@
 body {
   background: rgba(177,75,255,1);
   overflow-x:hidden;
+  display: flex;
+  justify-content: center;
 }
+
 .main{
   position: absolute;
   top:20%;
@@ -10,13 +13,6 @@ body {
 div{
   font-family: Oduda;
   color: white;
-}
-
-.landing{
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .logo{
