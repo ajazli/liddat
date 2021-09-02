@@ -3,9 +3,9 @@ body {
 }
 .main{
   position: absolute;
-  top:25%;
+  top:20%;
   width: 100%;
-  overflow-x: none;
+  overflow-x:hidden;
 }
 div{
   font-family: Oduda;
