@@ -1,11 +1,11 @@
 body {
   background: rgba(177,75,255,1);
+  overflow-x:hidden;
 }
 .main{
   position: absolute;
   top:20%;
   width: 100%;
-  overflow-x:hidden;
 }
 div{
   font-family: Oduda;
